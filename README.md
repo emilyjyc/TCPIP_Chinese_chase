@@ -1,7 +1,7 @@
 # Dark_chess
 象棋小遊戲，暗棋  
 
-# 游戏效果如圖
+# 遊戲效果如圖
 ![游戏效果图1](./readme_img/darkchess1.jpg)
 
 # Reference
